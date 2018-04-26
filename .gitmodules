@@ -1,0 +1,3 @@
+[submodule "gym-mosquitoes"]
+	path = gym-mosquitoes
+	url = https://github.com/augustelalande/gym-mosquitoes
