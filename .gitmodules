@@ -1,3 +1,6 @@
 [submodule "gym-mosquitoes"]
 	path = gym-mosquitoes
 	url = https://github.com/augustelalande/gym-mosquitoes
+[submodule "gym-mosquitoes-example"]
+	path = gym-mosquitoes-example
+	url = git@github.com:augustelalande/gym-mosquitoes-example.git
